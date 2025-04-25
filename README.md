@@ -1,4 +1,6 @@
 # Superstore-Excel-Dashboard
+## Dataset
+- <a href="https://github.com/rakhimathur791/Data-Analysis-Dashboard-Superstore/blob/main/Data%20Analysis%20-%20Superstore.xlsx">Dataset</a>
 ## Project Objectives  
 •	Build an interactive Excel dashboard using Pivot Tables and Slicers  
 •	Track and visualize key performance indicators (KPIs)  
