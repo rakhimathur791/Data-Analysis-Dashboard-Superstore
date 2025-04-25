@@ -1,2 +1,8 @@
-# Data-Analysis-Dashboard-Superstore
-A data analysis project using the popular Superstore dataset to build a dynamic Excel dashboard. This project demonstrates advanced Excel techniques to extract insights, track KPIs, and visualize trends in sales, profit, and customer behavior.
+# Superstore-Excel-Dashboard
+##Project Objectives
+•	Build an interactive Excel dashboard using Pivot Tables and Slicers
+•	Track and visualize key performance indicators (KPIs)
+•	Identify high and low-performing products, regions, and customers
+•	Analyse time-based sales and profit trends
+•	Measure customer loyalty and shipping efficiency
+
