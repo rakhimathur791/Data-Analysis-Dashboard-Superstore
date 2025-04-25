@@ -16,6 +16,7 @@ Dashboard Design: Created interactive KPI cards, charts, and slicers for dynamic
 Trend & Report: Analyzed trends and compiled key insights into a comprehensive report.  
 
 ## Summary
+- <a href="https://github.com/rakhimathur791/Data-Analysis-Dashboard-Superstore/blob/main/Summary.pdf">Summary</a>
 ## Sales Dashboard
 ## Distribution Dashboard 
 
