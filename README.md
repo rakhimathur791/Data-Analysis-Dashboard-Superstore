@@ -18,6 +18,9 @@ Trend & Report: Analyzed trends and compiled key insights into a comprehensive r
 ## Summary
 - <a href="https://github.com/rakhimathur791/Data-Analysis-Dashboard-Superstore/blob/main/Summary.pdf">Summary</a>
 ## Sales Dashboard
+![Sales Dashboard](https://github.com/user-attachments/assets/f69dd79f-3b44-4555-9563-b089e99eeee9)
+
 ## Distribution Dashboard 
+![Distribution Dashboard](https://github.com/user-attachments/assets/5d6b9fb3-42bd-4644-b823-975a253a58c4)
 
 
