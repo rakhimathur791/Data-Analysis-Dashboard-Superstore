@@ -27,7 +27,7 @@
 Sales and Profit were both highest in the West region during 2014, 2016 and 2017. 
 
 ## Product Category Insights
-•	Technology and Office Supplies contribute most to overall profit.
+•	Technology and Office Supplies contribute most to overall profit.  
 •	 Profit margins for the Furniture category needs improvement.
 
 
