@@ -23,4 +23,16 @@ Trend & Report: Analyzed trends and compiled key insights into a comprehensive r
 ## Distribution Dashboard 
 ![Distribution Dashboard](https://github.com/user-attachments/assets/5d6b9fb3-42bd-4644-b823-975a253a58c4)
 
+## Project Insight
+
+•	Sales peaked during the months September, November, and December.  
+•	The lowest sales were recorded in the month of February.  
+•	Q4 showed the strongest profit performance, in contrast to Q1’s lowest.   
+•	Sales declined by 2.83% in 2015, however, they rebounded with 29.47% increase in 2016 and a further 20.36% rise in 2017.  
+•	Sales and Profit were both highest in the West region during 2014, 2016 and 2017.  
+•	Technology and Office Supplies contribute most to overall profit.  
+•	Profit margins for the Furniture category needs improvement.  
+
+## Final Conclusion
+Superstore Dashboard analysis highlights peak sales in Q4, strong regional performance in the West, and high customer loyalty. While profitability is strong in Technology and Office Supplies, Furniture needs improvement. Recommendations include optimizing shipping, focusing on low-performing categories, and leveraging customer loyalty for sustained growth.
 
