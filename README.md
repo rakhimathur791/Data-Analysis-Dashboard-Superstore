@@ -8,21 +8,15 @@
 •	Analyse time-based sales and profit trends  
 •	Measure customer loyalty and shipping efficiency  
 ## Process
-### Data Import & Cleaning: 
-Loaded and cleaned the Superstore dataset, ensuring proper date formatting and error handling.
+Data Import & Cleaning: Loaded and cleaned the Superstore dataset, ensuring proper date formatting and error handling.  
+Helper Columns: Created columns for Month, Year, Quarter, and Shipping Delay.  
+Pivot Table Setup: Analyzed sales, profit, and shipping performance using PivotTables.  
+KPI Calculations: Calculated key metrics like sales, profit, repeat customers, and shipping delays.  
+Dashboard Design: Created interactive KPI cards, charts, and slicers for dynamic data visualization.  
+Trend & Report: Analyzed trends and compiled key insights into a comprehensive report.  
 
-Helper Columns: Created columns for Month, Year, Quarter, and Shipping Delay.
-
-Pivot Table Setup: Analyzed sales, profit, and shipping performance using PivotTables.
-
-KPI Calculations: Calculated key metrics like sales, profit, repeat customers, and shipping delays.
-
-Dashboard Design: Created interactive KPI cards, charts, and slicers for dynamic data visualization.
-
-Trend & Report: Analyzed trends and compiled key insights into a comprehensive report.
-
-## Product Category Insights
-•	Technology and Office Supplies contribute most to overall profit.  
-•	 Profit margins for the Furniture category needs improvement.
+## Summary
+## Sales Dashboard
+## Distribution Dashboard 
 
 
